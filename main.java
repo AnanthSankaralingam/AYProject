@@ -15,6 +15,7 @@ public class main()
             return false;
             };
             System.out.println(square.checker(4)) ;
+            //I learned how to use a lambda method - Ananth
     }
     public static void main(String[] args)
     { main app = new main();}//lambda method usage successfull - Y
