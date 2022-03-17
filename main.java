@@ -17,6 +17,6 @@ public class main()
             System.out.println(square.checker(4)) ;
     }
     public static void main(String[] args)
-    { main app = new main();}
+    { main app = new main();}//lambda method usage successfull - Y
 
 }
